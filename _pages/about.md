@@ -29,14 +29,14 @@ Research Interests: Algebraic Representation Theory
 # 📝 Publications 
 
 - C. C. Xi and J. B. Zhang, New invariants of stable equivalences of algebras. Preprint, arXiv:2207.10848, 1-20.
-[[HTML]](https://arxiv.org/abs/2207.10848)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/04.pdf)[[PDF]](/assets/04.pdf)
+[[HTML]](https://arxiv.org/abs/2207.10848)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/04.pdf)[[PDF]](/pdf/04.pdf)
 - J. B. Zhang and J. L. Zheng, Extension dimensions of derived and stable equivalent algebras. Journal of Algebra 646 (2024) 17-48.
-[[HTML]](https://doi.org/10.1016/j.jalgebra.2024.01.035)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/03.pdf)[[PDF]](/assets/03.pdf)
+[[HTML]](https://doi.org/10.1016/j.jalgebra.2024.01.035)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/03.pdf)[[PDF]](/pdf/03.pdf)
 - C. C. Xi and J. B. Zhang, Centralizer matrix algebras and symmetric polynomials of partitions. Journal of 
 Algebra 609 (2022) 688-717.
-[[HTML]](https://doi.org/10.1016/j.jalgebra.2022.06.037)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/02.pdf)[[PDF]](/assets/02.pdf)
+[[HTML]](https://doi.org/10.1016/j.jalgebra.2022.06.037)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/02.pdf)[[PDF]](/pdf/02.pdf)
 - C. C. Xi and J. B. Zhang, Structures of centralizer algebras. Linear Algebra and its Applications 622 (2021) 215-249.
-[[HTML]](https://doi.org/10.1016/j.laa.2021.03.034)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/01.pdf)[[PDF]](/assets/01.pdf)
+[[HTML]](https://doi.org/10.1016/j.laa.2021.03.034)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/01.pdf)[[PDF]](/pdf/01.pdf)
 
 
 ### English 
