@@ -17,10 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Your English expression is mostly clear, but there are a few minor adjustments to improve the grammar and flow. Here is a revised version:
-
----
-
 Jinbi Zhang, a lecturer at the School of Mathematical Sciences at Anhui University in Hefei, China, obtained a Ph.D. from Capital Normal University, China, under the supervision of Professor Changchang Xi.
 
 Research Interests: Representation Theory of finite dimensional algebras
