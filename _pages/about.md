@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. from Capital Normal University, where my advisor was Professor Hui Changchang. I am currently a lecturer at the School of Mathematical Sciences, Anhui University.
+Your English expression is mostly clear, but there are a few minor adjustments to improve the grammar and flow. Here is a revised version:
 
-Research Interests: Algebraic Representation Theory
+---
+
+Jinbi Zhang, a lecturer at the School of Mathematical Sciences at Anhui University in Hefei, China, obtained a Ph.D. from Capital Normal University, China, under the supervision of Professor Changchang Xi.
+
+Research Interests: Representation Theory of finite dimensional algebras
 
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
