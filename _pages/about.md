@@ -25,9 +25,10 @@ Jinbi Zhang, a lecturer at the School of Mathematical Sciences at Anhui Universi
 
 Research Interests: Representation Theory of finite dimensional algebras
 
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+# 🎓 Educations and Works
+- *2021.07 - Now*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> School of Mathematical Sciences, Anhui University, Lecturer
+- *2021.07 - 2023.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> School of Mathematical Sciences, Peking Univerity, Postdoctoral researcher (Postdoctoral Supervisor: Prof. Jiping Zhang)
+- *2015.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> School of Mathematical Sciences, Capital Normal Univerity, Ph.D. (Supervision: Prof. Changchang Xi)
  
 
 # 📝 Publications 
