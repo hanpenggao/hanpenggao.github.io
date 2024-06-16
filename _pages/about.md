@@ -17,18 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I received my Ph.D. from Capital Normal University, where my advisor was Professor Hui Changchang. I am currently a lecturer at the School of Mathematical Sciences, Anhui University.
 
-My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
-
+Research Interests: Algebraic Representation Theory
 
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
@@ -37,48 +28,20 @@ My research interest includes:
 
 # 📝 Publications 
 
+- C. C. Xi and J. B. Zhang, New invariants of stable equivalences of algebras. Preprint, arXiv:2207.10848, 1-20.
+[[HTML]](https://arxiv.org/abs/2207.10848)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/04.pdf)[[PDF]](/assets/04.pdf)
+- J. B. Zhang and J. L. Zheng, Extension dimensions of derived and stable equivalent algebras. Journal of Algebra 646 (2024) 17-48.
+[[HTML]](https://doi.org/10.1016/j.jalgebra.2024.01.035)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/03.pdf)[[PDF]](/assets/03.pdf)
+- C. C. Xi and J. B. Zhang, Centralizer matrix algebras and symmetric polynomials of partitions. Journal of 
+Algebra 609 (2022) 688-717.
+[[HTML]](https://doi.org/10.1016/j.jalgebra.2022.06.037)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/02.pdf)[[PDF]](/assets/02.pdf)
+- C. C. Xi and J. B. Zhang, Structures of centralizer algebras. Linear Algebra and its Applications 622 (2021) 215-249.
+[[HTML]](https://doi.org/10.1016/j.laa.2021.03.034)[[Preview]](https://github.com/ZhangJinBi/ZhangJinBi.github.io/blob/master/assets/01.pdf)[[PDF]](/assets/01.pdf)
+
+
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
-
-</div>
-</div>
-
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
-[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
-
-
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[HTML]](https://dx.doi.org/10.3390/app12199703) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[PDF]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
-
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[HTML]](https://dx.doi.org/10.3390/w14172736) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[PDF]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
-
-
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*. 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[PDF]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
 
 
 -	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
