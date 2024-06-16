@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Jinbi Zhang"
 description              : "This is the academic homepage of Ph.D. Zhang."
+url                      : "https://zhangjinbi.github.io"
+baseurl                  : ""
 repository               : "ZhangJinBi/zhangjinbi.github.io"
 google_scholar_stats_use_cdn : false
 
