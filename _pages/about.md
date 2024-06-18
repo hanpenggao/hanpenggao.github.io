@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Statement: Not all the information on the homepage is accurate as I am currently learning to create a homepage. Please bear with me.
-
 Jinbi Zhang, a lecturer at the School of Mathematical Sciences at Anhui University in Hefei, China, obtained a Ph.D. from Capital Normal University, China, under the supervision of Professor Changchang Xi.
 
 Research Interests: Representation Theory of finite dimensional algebras
