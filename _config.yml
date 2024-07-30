@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jinbi Zhang"
-description              : "This is the academic homepage of Ph.D. Zhang."
-url                      : "https://zhangjinbi.github.io"
+title                    : "Hanpeng Gao"
+description              : "This is the academic homepage of Ph.D. Gao."
+url                      : "https://hanpenggao.github.io"
 baseurl                  : ""
-repository               : "ZhangJinBi/zhangjinbi.github.io"
+repository               : "hanpenggao/hanpenggao.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinbi Zhang"
+  name             : "Hanpenggao"
   avatar           : "images/jinbi.png"
   bio              : "Anhui Univerity"
   location         : "Hefei, China"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "zhangjb@ahu.edu.cn"
+  email            : "hpgao@ahu.edu.cn"
   researchgate     :
   uri              : 
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhangJinBi"
+  github           : "hanpenggao"
   google_plus      :
   keybase          :
   instagram        :
@@ -47,7 +47,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             :
-  orcid            : "https://orcid.org/0000-0001-7025-4653"
+  orcid            : "https://orcid.org/0000-0001-7002-4153"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
