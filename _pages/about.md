@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinbi Zhang, a lecturer at the School of Mathematical Sciences at Anhui University in Hefei, China, obtained a Ph.D. from Capital Normal University, China, under the supervision of Professor Changchang Xi.
+Hanpeng Gao, a lecturer at the School of Mathematical Sciences at Anhui University in Hefei, China, obtained a Ph.D. from Nanjing University, China, under the supervision of Professor Zhaoyong Huang.
 
 Research Interests: Representation Theory of finite dimensional algebras
 
 # 🎓 Educations and Works
-- *2021.07 - Now*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> School of Mathematical Sciences, Anhui University, Lecturer
-- *2021.07 - 2023.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> School of Mathematical Sciences, Peking Univerity, Postdoctoral researcher (Postdoctoral Supervisor: Prof. Jiping Zhang)
-- *2015.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> School of Mathematical Sciences, Capital Normal Univerity, Ph.D. (Supervision: Prof. Changchang Xi)
+- *2021.09 - Now*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> School of Mathematical Sciences, Anhui University, Lecturer
+- *2019.09 - 2020.12*, <a href="https://www.uconn.edu/"><img class="svg" src="/images/uconn.png" width="23pt"></a> Department of Mathematics, University of Connecticut, CSC Scholar (Supervisor: Prof. Ralf Schiffler)
+- *2017.09 - 2021.06*, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/nju.png" width="20pt"></a> School of Mathematical Sciences, Nanjing Univerity, Ph.D. (Supervision: Prof. Zhaoyong Huang)
  
 
 # 📝 Publications 
