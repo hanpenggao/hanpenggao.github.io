@@ -28,7 +28,7 @@ Research Interests: Representation Theory of finite dimensional algebras
  
 
 # 📝 Publications
-- H. Gao, [τ-tilting modules over one-point extensions by a simple module at a source point.](/pdf/tau-tilting-modules-over-one-point-extension-by-a-simple-module-at-a-soure-point.pdf).J. Algebra Appl. 21 (2022), no. 6, Paper No. 2250122, 8 pp.[[HTML]](https://doi.org/10.1142/S0219498822501225)
+- H. Gao, [τ-tilting modules over one-point extensions by a simple module at a source point](/pdf/tau-tilting-modules-over-one-point-extension-by-a-simple-module-at-a-soure-point.pdf).J. Algebra Appl. 21 (2022), no. 6, Paper No. 2250122, 8 pp.[[HTML]](https://doi.org/10.1142/S0219498822501225)
 - H. Gao, [A note on the Hasse quiver of τ-tilting modules](/pdf/AnoteontheHasse.pdf). J. Algebra Appl. 21 (2022), no. 1, Paper No. 2250003, 6 pp.[[HTML]](https://doi.org/10.1142/S0219498822500037)
 - H. Gao, [Extending silted algebras to cluster-tilted algebras](/pdf/Extendingsiltedalgebras.pdf). J. Algebra Appl. 20 (2021), no. 9, Paper No. 2150169, 7 pp.[[HTML]](https://doi.org/10.1142/S0219498821501693)
 - H. Gao, [Semibircks over split-by-nilpotent extensions](/pdf/2021-7.pdf). Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)
