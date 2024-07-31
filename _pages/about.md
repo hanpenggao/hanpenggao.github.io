@@ -28,6 +28,7 @@ Research Interests: Representation Theory of finite dimensional algebras
  
 
 # 📝 Publications 
+- H. Gao, [Extending silted algebras to cluster-tilted algebras](/pdf/Extending silted algebras to cluster-tilted algebras.pdf). J. Algebra Appl. 20 (2021), no. 9, Paper No. 2150169, 7 pp.[[HTML]](https://doi.org/10.1142/S0219498821501693)
 - H. Gao, [Semibircks over split-by-nilpotent extensions](/pdf/2021-7.pdf). Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)
 - J. Zheng and  H. Gao,  [The extension dimension of triangular matrix algebras](/pdf/2021-4.pdf). Linear Algebra and Its Applications.624 (2021), 44-52.[[HTML]](https://doi.org/10.1016/j.laa.2021.04.002)
 - Z. Xie, H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Tilting modules over Auslander algebras of Nakayama algebras with radical cube zero](/pdf/2021-5.pdf) .Internat. J. AlgebraComput.31(2) (2021), 303--324.[[HTML]](https://doi.org/10.1142/S0218196721500168)
