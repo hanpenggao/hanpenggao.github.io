@@ -34,7 +34,7 @@ Research Interests: Representation Theory of finite dimensional algebras
 - H. Gao and Z. Xie, [Support τ-tilting modules overone-pointextensions](/pdf/2021-3.pdf). Comm. in  Algebra. 9(2)(2021),739-746.[[HTML]](https://doi.org/10.1080/00927872.2020.1817470)
 - H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Silting modules over triangular matrix rings](/pdf/2020-2.pdf),Taiwanese J. Math.24(6) (2020), 1417-1437.
 [[HTML]](https://doi.org/10.11650/tjm/200204)
-- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Support τ-tilting modules under split-by-nilpotent extensions]((/pdf/2020-1.pdf)).Colloq. Math., 160(2) (2020), 247-262.
+- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Support τ-tilting modules under split-by-nilpotent extensions](/pdf/2020-1.pdf).Colloq. Math., 160(2) (2020), 247-262.
 [[HTML]](https://doi.org/10.4064/cm7774-3-2019)
 - H. Gao and [R. Schiffler](https://schiffler.math.uconn.edu/#), [On the number of τ-tilting modules over Nakayama algebras](/pdf/2020-0.pdf).SIGMA. 16 (2020), 058, 13 pages.
 [[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)
