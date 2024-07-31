@@ -38,6 +38,8 @@ Research Interests: Representation Theory of finite dimensional algebras
 [[HTML]](https://doi.org/10.4064/cm7774-3-2019)
 - H. Gao and [R. Schiffler](https://schiffler.math.uconn.edu/#), [On the number of τ-tilting modules over Nakayama algebras](/pdf/2020-0.pdf).SIGMA. 16 (2020), 058, 13 pages.
 [[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)
+- C. C. Xi and J. B. Zhang, Structures of centralizer algebras. Linear Algebra and its Applications 622 (2021) 215-249.
+[[HTML]](https://doi.org/10.1016/j.laa.2021.03.034)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/01.pdf)[[PDF]](/pdf/01.pdf)
 
 
 
