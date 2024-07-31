@@ -28,15 +28,13 @@ Research Interests: Representation Theory of finite dimensional algebras
  
 
 # 📝 Publications 
-- C. C. Xi and J. B. Zhang, New invariants of stable equivalences of algebras. Preprint, arXiv:2207.10848, 1-20.
-[[HTML]](https://arxiv.org/abs/2207.10848)[[arxiv.org]](https://arxiv.org/abs/2207.10848)[](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/04.pdf)[[PDF]](/pdf/04.pdf)
-- J. B. Zhang and J. L. Zheng, Extension dimensions of derived and stable equivalent algebras. Journal of Algebra 646 (2024) 17-48.
-[[HTML]](https://doi.org/10.1016/j.jalgebra.2024.01.035)(https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/03.pdf)[[PDF]](/pdf/03.pdf)
-- C. C. Xi and J. B. Zhang, Centralizer matrix algebras and symmetric polynomials of partitions. Journal of 
-Algebra 609 (2022) 688-717.
-[[HTML]](https://doi.org/10.1016/j.jalgebra.2022.06.037)[[Preview]](/pdf/02.pdf)
+- J. Zheng and  H. Gao,   The extension dimension of triangular matrix algebras. Linear Algebra and Its Applications.624 (2021), 44--52.[[HTML]](https://doi.org/10.1016/j.laa.2021.04.002)[](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-4.pdf)[[PDF]](/pdf/2020-4.pdf)
+- H. Gao and Z. Huang,   Silting modules over triangular matrix rings,Taiwanese J. Math.24(6) (2020), 1417--1437.
+[[HTML]](https://doi.org/10.11650/tjm/200204)[](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-2.pdf)[[PDF]](/pdf/2020-2.pdf)
+- H. Gao and Z. Huang,   Support τ-tilting modules under split-by-nilpotent extensions.Colloq. Math., 160(2) (2020), 247--262.
+[[HTML]]( DOI: 10.4064/cm7774-3-2019)[](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-1.pdf)[[PDF]](/pdf/2020-1.pdf)
 - H. Gao and R. Schiffler,  On the number of τ-tilting modules over Nakayama algebras.SIGMA. 16 (2020), 058, 13 pages.
-[[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)[[Preview]](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-0.pdf)[[PDF]](/pdf/2020-0.pdf)
+[[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)[](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-0.pdf)[[PDF]](/pdf/2020-0.pdf)
 
 
 
