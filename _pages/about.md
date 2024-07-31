@@ -35,8 +35,8 @@ Research Interests: Representation Theory of finite dimensional algebras
 - C. C. Xi and J. B. Zhang, Centralizer matrix algebras and symmetric polynomials of partitions. Journal of 
 Algebra 609 (2022) 688-717.
 [[HTML]](https://doi.org/10.1016/j.jalgebra.2022.06.037)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/02.pdf)[[PDF]](/pdf/02.pdf)
-- C. C. Xi and J. B. Zhang, Structures of centralizer algebras. Linear Algebra and its Applications 622 (2021) 215-249.
-[[HTML]](https://doi.org/10.1016/j.laa.2021.03.034)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/01.pdf)[[PDF]](/pdf/01.pdf)
+- H. Gao and R. Schiffler,  On the number of τ-tilting modules over Nakayama algebras.SIGMA. 16 (2020), 058, 13 pages.
+[[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)[[Preview]](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-0.pdf)[[PDF]](/pdf/2020-0.pdf)
 
 
 
