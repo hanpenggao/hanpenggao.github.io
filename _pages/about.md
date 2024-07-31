@@ -28,12 +28,12 @@ Research Interests: Representation Theory of finite dimensional algebras
  
 
 # 📝 Publications 
-- J. Zheng and  H. Gao,   [The extension dimension of triangular matrix algebras](/pdf/2021-4.pdf). Linear Algebra and Its Applications.624 (2021), 44--52.[[HTML]](https://doi.org/10.1016/j.laa.2021.04.002) 
-- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/),   [Silting modules over triangular matrix rings](/pdf/2020-2.pdf),Taiwanese J. Math.24(6) (2020), 1417--1437.
+- J. Zheng and  H. Gao,   [The extension dimension of triangular matrix algebras](/pdf/2021-4.pdf). Linear Algebra and Its Applications.624 (2021), 44-52.[[HTML]](https://doi.org/10.1016/j.laa.2021.04.002) 
+- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Silting modules over triangular matrix rings](/pdf/2020-2.pdf),Taiwanese J. Math.24(6) (2020), 1417-1437.
 [[HTML]](https://doi.org/10.11650/tjm/200204)
-- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/),   [Support τ-tilting modules under split-by-nilpotent extensions]((/pdf/2020-1.pdf)).Colloq. Math., 160(2) (2020), 247--262.
+- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Support τ-tilting modules under split-by-nilpotent extensions]((/pdf/2020-1.pdf)).Colloq. Math., 160(2) (2020), 247-262.
 [[HTML]](https://doi.org/10.4064/cm7774-3-2019)
-- H. Gao and [R. Schiffler](https://schiffler.math.uconn.edu/#)[On the number of τ-tilting modules over Nakayama algebras](/pdf/2020-0.pdf).SIGMA. 16 (2020), 058, 13 pages.
+- H. Gao and [R. Schiffler](https://schiffler.math.uconn.edu/#), [On the number of τ-tilting modules over Nakayama algebras](/pdf/2020-0.pdf).SIGMA. 16 (2020), 058, 13 pages.
 [[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)
 
 
