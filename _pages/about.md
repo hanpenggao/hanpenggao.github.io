@@ -31,7 +31,7 @@ Research Interests: Representation Theory of finite dimensional algebras
 - H. Gao, [Semibircks over split-by-nilpotent extensions](/pdf/2021-7.pdf). Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)
 - J. Zheng and  H. Gao,   [The extension dimension of triangular matrix algebras](/pdf/2021-4.pdf). Linear Algebra and Its Applications.624 (2021), 44-52.[[HTML]](https://doi.org/10.1016/j.laa.2021.04.002)
 - Z. Xie, H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Tilting modules over Auslander algebras of Nakayama algebras with radical cube zero](/pdf/2021-5.pdf) .Internat. J. AlgebraComput.31(2) (2021), 303--324.[[HTML]](https://doi.org/10.1142/S0218196721500168)
--H. Gao and Z. Xie, [Support τ-tilting modules overone-pointextensions](/pdf/2021-3.pdf). Comm. in  Algebra. 9(2)(2021),739-746.[[HTML]](https://doi.org/10.1080/00927872.2020.1817470)
+- H. Gao and Z. Xie, [Support τ-tilting modules overone-pointextensions](/pdf/2021-3.pdf). Comm. in  Algebra. 9(2)(2021),739-746.[[HTML]](https://doi.org/10.1080/00927872.2020.1817470)
 - H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Silting modules over triangular matrix rings](/pdf/2020-2.pdf),Taiwanese J. Math.24(6) (2020), 1417-1437.
 [[HTML]](https://doi.org/10.11650/tjm/200204)
 - H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Support τ-tilting modules under split-by-nilpotent extensions]((/pdf/2020-1.pdf)).Colloq. Math., 160(2) (2020), 247-262.
