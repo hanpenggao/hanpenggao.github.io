@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hanpeng Gao, a lecturer at the School of Mathematical Sciences at Anhui University in Hefei, China, obtained a Ph.D. from Nanjing University, China, under the supervision of Professor Zhaoyong Huang.
+Hanpeng Gao, a lecturer at the School of Mathematical Sciences at Anhui University in Hefei, China, obtained a Ph.D. from Nanjing University, China, under the supervision of Professor [Zhaoyong Huang](http://maths.nju.edu.cn/~huangzy/).
 
 Research Interests: Representation Theory of finite dimensional algebras
 
