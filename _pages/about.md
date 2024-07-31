@@ -33,7 +33,7 @@ Research Interests: Representation Theory of finite dimensional algebras
 [[HTML]](https://doi.org/10.11650/tjm/200204)[](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-2.pdf)[[PDF]](/pdf/2020-2.pdf)
 - H. Gao and Z. Huang,   Support τ-tilting modules under split-by-nilpotent extensions.Colloq. Math., 160(2) (2020), 247--262.
 [[HTML]]( DOI: 10.4064/cm7774-3-2019)[](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-1.pdf)[[PDF]](/pdf/2020-1.pdf)
-- H. Gao and [[R. Schiffler]](https://schiffler.math.uconn.edu/#),  [[On the number of τ-tilting modules over Nakayama algebras]](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2020-0.pdf)[](/pdf/2020-0.pdf).SIGMA. 16 (2020), 058, 13 pages.
+- H. Gao and [[R. Schiffler]](https://schiffler.math.uconn.edu/#)[[On the number of τ-tilting modules over Nakayama algebras]](/pdf/2020-0.pdf).SIGMA. 16 (2020), 058, 13 pages.
 [[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)
 
 
