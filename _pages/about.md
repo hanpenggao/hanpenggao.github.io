@@ -28,19 +28,19 @@ Research Interests: Representation Theory of finite dimensional algebras
  
 
 # 📝 Publications
-- Yu-Zhe Liu, H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Homological dimensions of gentle algebras via geometric models](/pdf/H.pdf).Sci. China Math., 67(4) (2024), 733—766.[[HTML]](https://doi.org/10.1007/s11425-022-2120-8)
-- H. Gao, [The classification of τ-tilting modules over algebras of type D_n](/pdf/The-classification-of-tau-tilting-modules-over-algebra-of-type-Dn.pdf).Period. Math. Hungar. 86 (2023), no. 2, 503–513.[[HTML]](https://doi.org/10.1007/s10998-022-00485-3)
-- H. Gao, Z. Xie and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [On the number τ-tilting-modules of over the Auslander algebra of radical square zero Nakayama algebras](/pdf/On.pdf).Colloq. Math., 170(1) (2022), 15-26.[[HTML]](https://doi.org/10.4064/cm8474-7-2021)
-- H. Gao, [τ-tilting modules over one-point extensions by a simple module at a source point](/pdf/tau-tilting-modules-over-one-point-extension-by-a-simple-module-at-a-soure-point.pdf).J. Algebra Appl. 21 (2022), no. 6, Paper No. 2250122, 8 pp.[[HTML]](https://doi.org/10.1142/S0219498822501225)
-- H. Gao, [A note on the Hasse quiver of τ-tilting modules](/pdf/AnoteontheHasse.pdf). J. Algebra Appl. 21 (2022), no. 1, Paper No. 2250003, 6 pp.[[HTML]](https://doi.org/10.1142/S0219498822500037)
-- H. Gao, [Extending silted algebras to cluster-tilted algebras](/pdf/Extendingsiltedalgebras.pdf). J. Algebra Appl. 20 (2021), no. 9, Paper No. 2150169, 7 pp.[[HTML]](https://doi.org/10.1142/S0219498821501693)
-- H. Gao, [Semibircks over split-by-nilpotent extensions](/pdf/2021-7.pdf). Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)
-- J. Zheng and  H. Gao,  [The extension dimension of triangular matrix algebras](/pdf/2021-4.pdf). Linear Algebra and Its Applications.624 (2021), 44-52.[[HTML]](https://doi.org/10.1016/j.laa.2021.04.002)
-- Z. Xie, H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Tilting modules over Auslander algebras of Nakayama algebras with radical cube zero](/pdf/2021-5.pdf) .Internat. J. AlgebraComput.31(2) (2021), 303--324.[[HTML]](https://doi.org/10.1142/S0218196721500168)
-- H. Gao and Z. Xie, [Support τ-tilting modules overone-pointextensions](/pdf/2021-3.pdf). Comm. in  Algebra. 9(2)(2021),739-746.[[HTML]](https://doi.org/10.1080/00927872.2020.1817470)
-- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/),[Silting modules over triangular matrix rings](/pdf/2020-2.pdf),Taiwanese J. Math.24(6) (2020), 1417-1437.
+13. Yu-Zhe Liu, H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Homological dimensions of gentle algebras via geometric models](/pdf/H.pdf).Sci. China Math., 67(4) (2024), 733—766.[[HTML]](https://doi.org/10.1007/s11425-022-2120-8)
+12. H. Gao, [The classification of τ-tilting modules over algebras of type D_n](/pdf/The-classification-of-tau-tilting-modules-over-algebra-of-type-Dn.pdf).Period. Math. Hungar. 86 (2023), no. 2, 503–513.[[HTML]](https://doi.org/10.1007/s10998-022-00485-3)
+11. H. Gao, Z. Xie and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [On the number τ-tilting-modules of over the Auslander algebra of radical square zero Nakayama algebras](/pdf/On.pdf).Colloq. Math., 170(1) (2022), 15-26.[[HTML]](https://doi.org/10.4064/cm8474-7-2021)
+10. H. Gao, [τ-tilting modules over one-point extensions by a simple module at a source point](/pdf/tau-tilting-modules-over-one-point-extension-by-a-simple-module-at-a-soure-point.pdf).J. Algebra Appl. 21 (2022), no. 6, Paper No. 2250122, 8 pp.[[HTML]](https://doi.org/10.1142/S0219498822501225)
+9. H. Gao, [A note on the Hasse quiver of τ-tilting modules](/pdf/AnoteontheHasse.pdf). J. Algebra Appl. 21 (2022), no. 1, Paper No. 2250003, 6 pp.[[HTML]](https://doi.org/10.1142/S0219498822500037)
+8. H. Gao, [Extending silted algebras to cluster-tilted algebras](/pdf/Extendingsiltedalgebras.pdf). J. Algebra Appl. 20 (2021), no. 9, Paper No. 2150169, 7 pp.[[HTML]](https://doi.org/10.1142/S0219498821501693)
+7. H. Gao, [Semibircks over split-by-nilpotent extensions](/pdf/2021-7.pdf). Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)
+6. J. Zheng and  H. Gao,  [The extension dimension of triangular matrix algebras](/pdf/2021-4.pdf). Linear Algebra and Its Applications.624 (2021), 44-52.[[HTML]](https://doi.org/10.1016/j.laa.2021.04.002)
+5. Z. Xie, H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Tilting modules over Auslander algebras of Nakayama algebras with radical cube zero](/pdf/2021-5.pdf) .Internat. J. AlgebraComput.31(2) (2021), 303--324.[[HTML]](https://doi.org/10.1142/S0218196721500168)
+4. H. Gao and Z. Xie, [Support τ-tilting modules overone-pointextensions](/pdf/2021-3.pdf). Comm. in  Algebra. 9(2)(2021),739-746.[[HTML]](https://doi.org/10.1080/00927872.2020.1817470)
+3. H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/),[Silting modules over triangular matrix rings](/pdf/2020-2.pdf),Taiwanese J. Math.24(6) (2020), 1417-1437.
 [[HTML]](https://doi.org/10.11650/tjm/200204)
-- H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/),[Support τ-tilting modules under split-by-nilpotent extensions](/pdf/2020-1.pdf).Colloq. Math., 160(2) (2020), 247-262.
+2. H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/),[Support τ-tilting modules under split-by-nilpotent extensions](/pdf/2020-1.pdf).Colloq. Math., 160(2) (2020), 247-262.
 [[HTML]](https://doi.org/10.4064/cm7774-3-2019)
 1. H. Gao and [R. Schiffler](https://schiffler.math.uconn.edu/#),[On the number of τ-tilting modules over Nakayama algebras](/pdf/2020-0.pdf).SIGMA. 16 (2020), 058, 13 pages.[[HTML]](  https://doi.org/10.3842/SIGMA.2020.058)
 
