@@ -29,7 +29,7 @@ Research Interests: Representation Theory of finite dimensional algebras
 
 # 📝 Publications
 1. H. Gao,[ A note on  wide τ-tilting modules and epibricks](/pdf/widetilting.pdf). Period. Math. Hungar. 91 (2025), no. 2, 320–328.[HTML](https://doi.org/10.1007/s10998-025-00653-1)  
-14. H. Gao, Y. Zhou and Y. Zhang,[ Sincere wide τ-tilting modules](/pdf/sincerewide.pdf). Electron. Res. Arch. 33 (2025), no. 4, 2275–2284.[HTML]](https://doi.org/10.3934/era.2025099)   
+14. H. Gao, Y. Zhou and Y. Zhang,[ Sincere wide τ-tilting modules](/pdf/sincerewide.pdf). Electron. Res. Arch. 33 (2025), no. 4, 2275–2284.[HTML](https://doi.org/10.3934/era.2025099)   
 13. Y. Liu, H. Gao and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [Homological dimensions of gentle algebras via geometric models](/pdf/H.pdf).Sci. China Math., 67(4) (2024), 733—766.[[HTML](https://doi.org/10.1007/s11425-022-2120-8)   
 12.  H. Gao, [The classification of τ-tilting modules over algebras of type D_n](/pdf/The-classification-of-tau-tilting-modules-over-algebra-of-type-Dn.pdf).Period. Math. Hungar. 86 (2023), no. 2, 503–513.[[HTML]](https://doi.org/10.1007/s10998-022-00485-3)
 11. H. Gao, Z. Xie and [Z. Huang](http://maths.nju.edu.cn/~huangzy/), [On the number τ-tilting-modules of over the Auslander algebra of radical square zero Nakayama algebras](/pdf/On.pdf).Colloq. Math., 170(1) (2022), 15-26.[[HTML]](https://doi.org/10.4064/cm8474-7-2021)
